@@ -77,7 +77,7 @@ On the other hand, in the **Model-View (MV)** architecture the `Model` store and
 
 ## Deep Dive
 
-More covered topics and detailed information about **Model-View (MV) architecture** could be found in the Wiki.
+More covered topics and detailed information about **Model-View (MV) architecture** could be found in the [Wiki](https://github.com/onl1ner/swiftui-mv-architecture/wiki).
 
 ## Credits
 
